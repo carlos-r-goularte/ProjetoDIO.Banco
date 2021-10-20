@@ -1,0 +1,16 @@
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.exe
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.deps.json
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.runtimeconfig.json
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.runtimeconfig.dev.json
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.dll
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ref\ProjetoDIO.Banco.dll
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\bin\Debug\net5.0\ProjetoDIO.Banco.pdb
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.csproj.AssemblyReference.cache
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.AssemblyInfoInputs.cache
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.AssemblyInfo.cs
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.dll
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ref\ProjetoDIO.Banco.dll
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.pdb
+D:\Programação\Projetos - C#\ProjetoDIO\ProjetoDIO.Banco\ProjetoDIO.Banco\obj\Debug\net5.0\ProjetoDIO.Banco.genruntimeconfig.cache
